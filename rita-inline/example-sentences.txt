@@ -1,0 +1,24 @@
+I am a student.
+You are a tennis player.
+He is a doctor.
+She is at home.
+This is an apple.
+This is a ball.
+It is a book.
+You are in the class.
+The baseball game is today.
+I am a junior high school student.
+She is in the garden.
+He is not a teacher.
+I am not a student.
+He isn't a teacher.
+Am I a student?
+Yes, you are.
+No, you are not.
+You are a tennis player?
+Yes, I am.
+No, I am not.
+They are your friends.
+Are they your friends?
+Yes, they are.
+No, they are not.
